@@ -5,5 +5,5 @@ description:  Pretty Cool Project
 skills: 
 - skill 1
 - skill 2
-main-image: /project.webp 
+main-image: /S6FrontEnd.jpeg 
 ---
