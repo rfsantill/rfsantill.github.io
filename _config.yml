@@ -12,26 +12,31 @@ title: Rene Santillana's Portfolio # This is what shows up in the tab of the bro
 
 
 # Hero Section
-name: Rene F. Santillana
-headline: headline message
+name: Rene F. Santillana, EIT
+headline: Welcome to my portfolio!
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  #Write an awesome intro and discuss your highlights and qualification. You can edit this
+  #line in _config.yml. It will appear in your document head meta (for
+  #Google search results) and in your feed.xml site description.
+  I am a passionate mechanical engineer with a background in scientific instrumentation, aerospace systems, and advanced engineering research, focused on developing innovative mechanical solutions for complex environments. Experienced in concept development, detailed design, and system-level validation, including structural, thermal, and environmental analysis.
+
+  I have led and supported multidisciplinary efforts to design, prototype, and test hardware under demanding conditions, while collaborating with customers, vendors, and internal teams to deliver high-performance solutions.
+
+  My goal is to bridge innovation and execution, bringing new ideas from concept to reliable, manufacturable products.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/avatar.jpeg
+profile_image: ./assets/images/profile-image/Rene-Profile.jpeg
 
 
 # Link your resume
 # You can place your resume in assets/resume/{resume.pdf or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing # or /assets/resume/resume.pdf
+resume-url: /assets/resume/Rene Santillana-Resume_2026.pdf
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: rene-santillana    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: rene-santillana  # https://www.linkedin.com/in/{your url slug} 
   github:     # https://github.com/{your url slug} 
   stackoverflow:       # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
