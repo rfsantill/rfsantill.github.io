@@ -22,7 +22,7 @@ description: >- # dont remove this line. this will ignore all new lines until th
   My goal is to bridge innovation and execution, bringing new ideas from concept to reliable, manufacturable products.
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
-profile_image: ./assets/images/profile-image/Rene-Profile.jpeg
+profile_image: /assets/images/profile-image/Rene-Profile.jpg
 
 
 # Link your resume
