@@ -15,9 +15,6 @@ title: Rene Santillana's Portfolio # This is what shows up in the tab of the bro
 name: Rene F. Santillana, EIT
 headline: Welcome to my portfolio!
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  #Write an awesome intro and discuss your highlights and qualification. You can edit this
-  #line in _config.yml. It will appear in your document head meta (for
-  #Google search results) and in your feed.xml site description.
   I am a passionate mechanical engineer with a background in scientific instrumentation, aerospace systems, and advanced engineering research, focused on developing innovative mechanical solutions for complex environments. Experienced in concept development, detailed design, and system-level validation, including structural, thermal, and environmental analysis.
 
   I have led and supported multidisciplinary efforts to design, prototype, and test hardware under demanding conditions, while collaborating with customers, vendors, and internal teams to deliver high-performance solutions.
@@ -52,14 +49,9 @@ external-links:    # input only your own url slug. The icons with missing entrie
 skills:
   - category: 3D Modeling
     tools:
-    - Onshape
     - Solidworks
-    - Creo
     - Fusion 360 (Autodesk)
-    - Blender (for complex shapes or animations)
-    - Siemens NX
     - Inventor (Autodesk)
-    - CATIA (Dassault Systèmes)
   - category: Prototyping
     tools:
     - SLA
