@@ -1,18 +1,12 @@
 ---
 layout: post
-title: Super Heavy Booster Catch (Demo Only)
-description:  (I have never been employed by / affiliated with SpaceX. This is for demo use only) 
-    Developing the Super Heavy booster catch project involves designing a robust launch tower with "chopstick" arms, advanced control systems for precise booster alignment, and integrating sophisticated software for real-time trajectory adjustments and structural engineering to handle immense forces.
+title: Angel Hair Trap
+description:  Design of a new product line for use in the plastic industry to capture long, thin strands of plastic material that form during processing
 skills: 
-  - Structural analysis
-  - Aerodynamic design
-  - Propulsion system integration
-  - Control Algorithem 
+  - Sheet Metal
   - Welding
-  - Metal forming
-  - Thermal simulation
 
-main-image: /project2.jpg
+main-image: {% include image-gallery.html images="https://cdn.prod.website-files.com/5c17eb202f30f957245bfbee/65de013372fd56357db8fa27_Vortex-Angel-Hair-Trap-Clear-Cover.jpg" %}
 ---
 
 ---
