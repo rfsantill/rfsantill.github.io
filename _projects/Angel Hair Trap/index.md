@@ -6,7 +6,7 @@ skills:
   - Sheet Metal
   - Welding
 
-main-image: {% include image-gallery.html images="https://cdn.prod.website-files.com/5c17eb202f30f957245bfbee/65de013372fd56357db8fa27_Vortex-Angel-Hair-Trap-Clear-Cover.jpg" %}
+main-image: {% include image-gallery.html images="https://cdn.prod.websitefiles.com/5c17eb202f30f957245bfbee/65de013372fd56357db8fa27_Vortex-Angel-Hair-Trap-Clear-Cover.jpg" %}
 ---
 
 ---
