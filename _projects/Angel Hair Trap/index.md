@@ -6,7 +6,7 @@ skills:
   - Sheet Metal
   - Welding
 
-main-image: https://cdn.prod.website-files.com/5c17eb202f30f957245bfbee/65de013372fd56357db8fa27_Vortex-Angel-Hair-Trap-Clear-Cover.jpg
+main-image: /AngelHairTrap.jpg
 ---
 
 ---
@@ -25,7 +25,7 @@ Use this to have subsection if needed
 You can put in multiple entries. All images will be at a fixed height in the same row. With smaller window, they will switch to columns.  
 
 ### Embeed images
-{% include image-gallery.html images="project2.jpg" height="400" %} 
+{% include image-gallery.html images="https://cdn.prod.website-files.com/5c17eb202f30f957245bfbee/6914aa0f536e62c8773d7b82_gif%20(1).gif" height="400" %} 
 place the images in project folder/images then update the file path.   
 
 
