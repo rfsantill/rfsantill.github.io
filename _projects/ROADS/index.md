@@ -16,10 +16,7 @@ For this project, I was in charge of redesigning the satellite docking structure
 As part of the verification procedures that a satellite must meet to be approved for launch on a SpaceX Falcon 9, I was responsible for developing, planning, overseeing, and conducting random vibration testing for the two flight-unit satellites. I coordinated with the testing facility's team to ensure the expectations, procedures, and plans were understood and followed. Additionally, I co-conducted the thermal vacuum test campaign done on one of the flight-unit satellites to validate the survival of the satellites in Low Earth Orbit
 
 
-### Transporter 14 - UND ROADS Deployment
-
-{% include youtube-video.html id="{xItZE0SdwUo?si=zzsJ5_lRXUDLCKm0}" autoplay= "false"%}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xItZE0SdwUo?si=zzsJ5_lRXUDLCKm0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+### ***Transporter 14 - UND ROADS Deployment***
 
 <div class="youtube-container" style="--max-width: {{ include.width | default: '560px' }}">
     <div class="youtube-aspect-ratio">
@@ -32,5 +29,5 @@ As part of the verification procedures that a satellite must meet to be approved
     </div>
 </div>
 
-<span style="font-size: 10px"> portions of Trasporter-14 launch from https://x.com/i/broadcasts/1jMKgkwArZOKL</span> 
+<span style="font-size: 10px"> *Portions of Trasporter-14 launch from https://x.com/i/broadcasts/1jMKgkwArZOKL</span> 
 
