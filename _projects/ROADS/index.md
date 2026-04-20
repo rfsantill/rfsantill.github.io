@@ -17,10 +17,10 @@ As part of the verification procedures that a satellite must meet to be approved
 
 
 <video width="640" height="360" controls>
-  <source src="Trasporter14.mp4" type="video/mp4">
+  <source src="https://youtu.be/xItZE0SdwUo" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
 ### Angel Hair Trap in the Field
-{% include image-gallery.html images="/Trasporter14.mp4" %}
+{% include image-gallery.html images="https://youtu.be/xItZE0SdwUo" %}
 <span style="font-size: 10px"> portions of Trasporter-14 launch from https://x.com/i/broadcasts/1jMKgkwArZOKL</span> 
