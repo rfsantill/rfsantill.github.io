@@ -17,13 +17,5 @@ As part of the verification procedures that a satellite must meet to be approved
 
 ### Transporter 14 - ROADS Deployment
 
-<iframe width="560" height="315" 
-  src="https://youtu.be/xItZE0SdwUo" 
-  frameborder="0" 
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-  allowfullscreen>
-</iframe>
-
-
-{% include youtube-video.html id="{xItZE0SdwUo}" autoplay= "false"%}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xItZE0SdwUo?si=ujottJeETYZUrvUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <span style="font-size: 10px"> portions of Trasporter-14 launch from https://x.com/i/broadcasts/1jMKgkwArZOKL</span> 
