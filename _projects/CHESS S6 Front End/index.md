@@ -16,6 +16,7 @@ In this project, cooling of the front end was critical to ensure the safety of b
 
 {% include image-gallery.html images="/assets/images/CHESS/AnalysisSetUp.png, /assets/images/CHESS/TempStressResults.png" height="400" %}
 {% include image-gallery.html images="/assets/images/CHESS/PA Cooling.png, /assets/images/CHESS/PA EDM.png" height="400" %}
+<img src="/assets/images/CHESS/AnalysisSetUp.png" style="height:400px;">
 
 
 I also designed UHV-compatible mechanical parts and support structures tailored to fit within a tightly constrained beamline environment due to the presence of existing infrastructure in the narrow underground accelerator tunnel. My work supported the development of design documentation and analysis used during engineering reviews and system integration at the synchrotron facility.
