@@ -19,8 +19,8 @@ In this project, cooling of the front end was critical to ensure the safety of b
   <img src="TempStressResults.png" style="height: 400px; object-fit: contain;">
 </div>
 <div style="display: flex; gap: 1rem; flex-wrap: wrap;">
-  <img src="/AnalysisSetUp.png" style="height: 400px; object-fit: contain;">
-  <img src="/TempStressResults.png" style="height: 400px; object-fit: contain;">
+  <img src="Pa Cooling.png" style="height: 400px; object-fit: contain;">
+  <img src="PA EDM.png" style="height: 400px; object-fit: contain;">
 </div>
 
 
