@@ -22,7 +22,8 @@ In this project, cooling of the front end was critical to ensure the safety of b
   <img src="PA Cooling.png" style="height: 400px; object-fit: contain;">
   <img src="PA EDM.png" style="height: 400px; object-fit: contain;">
 </div>
-
+{% include image-gallery.html images="AnalysisSetUp.png, TempStressResults.png" height="400" %}
+{% include image-gallery.html images="PA Cooling.png, PA EDM.png" height="400" %}
 
 
 I also designed UHV-compatible mechanical parts and support structures tailored to fit within a tightly constrained beamline environment due to the presence of existing infrastructure in the narrow underground accelerator tunnel. My work supported the development of design documentation and analysis used during engineering reviews and system integration at the synchrotron facility.
