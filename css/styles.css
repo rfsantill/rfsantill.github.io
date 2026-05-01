@@ -474,7 +474,7 @@ nav .mobile-nav {
     outline: none;
     resize: none;
     font-size: 13px;
-    color: white;
+    color: var(--text-color);
     
 }
 
