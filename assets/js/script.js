@@ -14,4 +14,29 @@ document.addEventListener('DOMContentLoaded', function() {
             mobileNav.classList.remove('active');
         }
     });
+// =========================
+    // CAROUSELS
+    // =========================
+
+    document.querySelectorAll('.carousel').forEach(carousel => {
+        const images = carousel.querySelectorAll('.carousel-image');
+
+        if (images.length === 0) return;
+
+        let current = 0;
+
+        images[0].classList.add('active');
+
+        carousel.querySelector('.next').addEventListener('click', () => {
+            images[current].classList.remove('active');
+            current = (current + 1) % images.length;
+            images[current].classList.add('active');
+        });
+
+        carousel.querySelector('.prev').addEventListener('click', () => {
+            images[current].classList.remove('active');
+            current = (current - 1 + images.length) % images.length;
+            images[current].classList.add('active');
+        });
+    });
 });
