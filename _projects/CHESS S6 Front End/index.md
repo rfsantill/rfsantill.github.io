@@ -28,6 +28,19 @@ I also designed UHV-compatible mechanical parts and support structures tailored 
   <img src="/assets/images/CHESS/PA EDM.png" style="height:200px; object-fit: contain;">
 </div>
 
+<div class="carousel">
+    <button class="carousel-btn prev">&#10094;</button>
+
+    <div class="carousel-track">
+        <img src="/assets/images/CHESS/AnalysisSetUp.png" class="carousel-image">
+        <img src="/assets/images/CHESS/TempStressResults.png" class="carousel-image">
+        <img src="/assets/images/CHESS/PA Cooling.png" class="carousel-image">
+        <img src="/assets/images/CHESS/PA EDM.png" class="carousel-image">
+    </div>
+
+    <button class="carousel-btn next">&#10095;</button>
+</div>
+
 
 
 
