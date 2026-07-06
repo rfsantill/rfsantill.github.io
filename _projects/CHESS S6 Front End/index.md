@@ -17,12 +17,12 @@ I also designed UHV-compatible mechanical parts and support structures tailored 
 
 <object
     class="pdf-viewer"
-    data="/assets/pdfs/CHESS/TUP67_poster.pdf"
+    data="/assets/pdfs/TUP67_poster.pdf"
     type="application/pdf">
 
     <p>
         Your browser doesn't support embedded PDFs.
-        <a href="/assets/pdfs/CHESS/TUP67_poster.pdf">
+        <a href="/assets/pdfs/TUP67_poster.pdf">
             Download the PDF
         </a>.
     </p>
