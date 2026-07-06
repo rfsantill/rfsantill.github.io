@@ -7,7 +7,7 @@ skills:
 - Structural Analysis
 - Ultra High Vacuum Design
 - Wire EDM
-main-image: /S6FrontEnd.jpeg
+main-image: /S6FrontEnd.jpg
 ---
 
 ---
