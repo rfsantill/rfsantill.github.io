@@ -22,7 +22,7 @@ I also designed UHV-compatible mechanical parts and support structures tailored 
 
     <p>
         Your browser doesn't support embedded PDFs.
-        <a href="/assets/pdfs/CHESS/S6FrontEndDrawing.pdf">
+        <a href="/assets/pdfs/CHESS/TUP67_poster.pdf">
             Download the PDF
         </a>.
     </p>
