@@ -650,6 +650,17 @@ footer p {
     align-self: flex-start;
 }
 
+/* EMBEDDED PDF */
+
+.pdf-viewer {
+    width: 100%;
+    height: 800px;
+    margin: 20px auto;
+    margin-bottom: 30px;
+    border: 1px solid var(--border-color);
+    border-radius: 8px;
+}
+
 /* IMAGE CAROUSEL */
 
 .carousel {
