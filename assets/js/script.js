@@ -19,24 +19,31 @@ document.addEventListener('DOMContentLoaded', function() {
     // =========================
 
     document.querySelectorAll('.carousel').forEach(carousel => {
-        const images = carousel.querySelectorAll('.carousel-image');
+        const items = carousel.querySelectorAll('.carousel-item');
 
-        if (images.length === 0) return;
+        if (items.length === 0) return;
 
         let current = 0;
 
-        images[0].classList.add('active');
+        items[0].classList.add('active');
+
+        function stopVideo(item) {
+            if (item.tagName === "VIDEO") {
+                item.pause();
+                item.currentTime = 0;
+            }
+        }
 
         carousel.querySelector('.next').addEventListener('click', () => {
-            images[current].classList.remove('active');
-            current = (current + 1) % images.length;
-            images[current].classList.add('active');
+            items[current].classList.remove('active');
+            current = (current + 1) % items.length;
+            items[current].classList.add('active');
         });
 
         carousel.querySelector('.prev').addEventListener('click', () => {
-            images[current].classList.remove('active');
-            current = (current - 1 + images.length) % images.length;
-            images[current].classList.add('active');
+            items[current].classList.remove('active');
+            current = (current - 1 + items.length) % items.length;
+            items[current].classList.add('active');
         });
     });
 });
