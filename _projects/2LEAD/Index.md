@@ -19,9 +19,9 @@ In this project,
     <button class="carousel-btn prev">&#10094;</button>
 
     <div class="carousel-track">
-        <img src="/assets/images/2LEAD/Focusing Mechanism.jpeg" class="carousel-image">
-        <img src="/assets/images/2LEAD/Pointing Mechanism.png" class="carousel-image">
-        <img src="/assets/images/2LEAD/LPM Prototype.png" class="carousel-image">
+        <img src="/assets/images/2LEAD/Focusing Mechanism.jpeg" class="carousel-item">
+        <img src="/assets/images/2LEAD/Pointing Mechanism.jpeg" class="carousel-item">
+        <img src="/assets/images/2LEAD/LPM Prototype.jpeg" class="carousel-item">
 
     </div>
 
