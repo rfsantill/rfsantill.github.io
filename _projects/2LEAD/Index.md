@@ -7,7 +7,7 @@ skills:
 - Structural Analysis
 - Ultra High Vacuum / Space Design
 - Thermal Simulation
-main-image: /2LEAD Main.jpg
+main-image: /2LEAD Main.jpeg
 ---
 
 ---
