@@ -11,14 +11,29 @@ main-image: /2LEAD Main.jpeg
 ---
 
 ---
-In this project, 
+In this project, I led the design and analysis of a high-precision XY scanning mirror and linear stage mechanism for space applications, achieving microradian angular and micron-level linear resolution. I also contributed to the early development of a non-pressurized lunar rover enclosure, incorporating structural and thermal solutions for the extreme lunar environment. As the lead mechanical engineer, I served as the primary technical point of contact, coordinating with the customer, cross-functional teams, and vendors to ensure technical requirements, schedules, and project milestones were successfully met.
 
 
 
 <div class="carousel">
     <button class="carousel-btn prev">&#10094;</button>
 
-    <div class="carousel-track">
+        <div class="carousel-track">
+            <video
+                src="/assets/videos/2LEAD/FocusPointing.mp4"
+                class="carousel-item"
+                controls
+                preload="metadata">
+            </video>\
+
+        <div class="carousel-track">
+            <video
+                src="/assets/videos/2LEAD/LaunchCase.mp4"
+                class="carousel-item"
+                controls
+                preload="metadata">
+            </video>
+        
         <img src="/assets/images/2LEAD/Focusing Mechanism.jpeg" class="carousel-item">
         <img src="/assets/images/2LEAD/Pointing Mechanism.jpeg" class="carousel-item">
         <img src="/assets/images/2LEAD/LPM Prototype.jpeg" class="carousel-item">
