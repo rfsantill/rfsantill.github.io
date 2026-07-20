@@ -24,9 +24,8 @@ In this project, I led the design and analysis of a high-precision XY scanning m
                 class="carousel-item"
                 controls
                 preload="metadata">
-            </video>\
+            </video>
 
-        <div class="carousel-track">
             <video
                 src="/assets/videos/2LEAD/LaunchCase.mp4"
                 class="carousel-item"
