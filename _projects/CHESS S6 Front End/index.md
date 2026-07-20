@@ -15,6 +15,22 @@ In this project, cooling of the front end was critical to ensure the safety of b
 
 I also designed UHV-compatible mechanical parts and support structures tailored to fit within a tightly constrained beamline environment due to the presence of existing infrastructure in the narrow underground accelerator tunnel. My work supported the development of design documentation and analysis used during engineering reviews and system integration at the synchrotron facility.
 
+
+
+<div class="carousel">
+    <button class="carousel-btn prev">&#10094;</button>
+
+    <div class="carousel-track">
+        <img src="/assets/images/CHESS/CF6.jpeg" class="carousel-item">
+        <img src="/assets/images/CHESS/AnalysisSetUp.png" class="carousel-item">
+        <img src="/assets/images/CHESS/TempStressResults.png" class="carousel-item">
+        <img src="/assets/images/CHESS/PA Cooling.png" class="carousel-item">
+        <img src="/assets/images/CHESS/PA EDM.png" class="carousel-item">
+    </div>
+
+    <button class="carousel-btn next">&#10095;</button>
+</div>
+
 <object
     class="pdf-viewer"
     data="/assets/pdfs/TUP67_poster.pdf"
@@ -28,20 +44,6 @@ I also designed UHV-compatible mechanical parts and support structures tailored 
     </p>
 
 </object>
-
-<div class="carousel">
-    <button class="carousel-btn prev">&#10094;</button>
-
-    <div class="carousel-track">
-        <img src="/assets/images/CHESS/CF6.jpeg" class="carousel-image">
-        <img src="/assets/images/CHESS/AnalysisSetUp.png" class="carousel-image">
-        <img src="/assets/images/CHESS/TempStressResults.png" class="carousel-image">
-        <img src="/assets/images/CHESS/PA Cooling.png" class="carousel-image">
-        <img src="/assets/images/CHESS/PA EDM.png" class="carousel-image">
-    </div>
-
-    <button class="carousel-btn next">&#10095;</button>
-</div>
 
 
 
