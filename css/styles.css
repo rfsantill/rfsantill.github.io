@@ -685,11 +685,14 @@ footer p {
     object-fit: contain;
 
     opacity: 0;
+    pointer-events: none;
+
     transition: opacity 0.3s ease;
 }
 
 .carousel-item.active {
     opacity: 1;
+    pointer-events: auto;
 }
 
 .carousel-btn {
