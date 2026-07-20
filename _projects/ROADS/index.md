@@ -7,13 +7,27 @@ skills:
 - TVAC Testing
 - FEA Analysis
 - Documentation
-main-image: /SatLaunch.png
+main-image: /roads-patch.png
 ---
 
 --- 
 For this project, I was in charge of redesigning the satellite docking structure to increase the docking range. The redesign process included CAD modeling of the structure, FEA Analysis to validate hand calculations before environmental testing, and 3D printing of the structure for prototype testing.
 
 As part of the verification procedures that a satellite must meet to be approved for launch on a SpaceX Falcon 9, I was responsible for developing, planning, overseeing, and conducting random vibration testing for the two flight-unit satellites. I coordinated with the testing facility's team to ensure the expectations, procedures, and plans were understood and followed. Additionally, I co-conducted the thermal vacuum test campaign done on one of the flight-unit satellites to validate the survival of the satellites in Low Earth Orbit. Both satellites were successfully placed in orbit on June 23, 2025, and remain operational.
+
+<div class="carousel">
+    <button class="carousel-btn prev">&#10094;</button>
+
+    <div class="carousel-track">
+        <img src="/assets/images/ROADS/SatLaunch.png" class="carousel-item">
+        <img src="/assets/images/ROADS/und-roads__1.jpg" class="carousel-item">
+        <img src="/assets/images/ROADS/UND-Roads_2.png" class="carousel-item">
+        <img src="/assets/images/ROADS/SatDocked.PNG" class="carousel-item">
+        
+    </div>
+
+    <button class="carousel-btn next">&#10095;</button>
+</div>
 
 
 ### ***Transporter 14 - UND ROADS Deployment***
